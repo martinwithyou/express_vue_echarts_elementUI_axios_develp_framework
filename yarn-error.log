@@ -1,0 +1,33 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Dezhu\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express-session cookie-parser body-parser
+
+PATH: 
+  C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;D:\Git\cmd;C:\Program Files\nodejs\;C:\Users\Dezhu\AppData\Local\Microsoft\WindowsApps;C:\Users\Dezhu\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  8.4.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "rest",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: read ECONNRESET
+      at _errnoException (util.js:1041:11)
+      at TLSWrap.onread (net.js:606:25)
